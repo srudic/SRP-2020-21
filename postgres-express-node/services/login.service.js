@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 const jwt = require("jsonwebtoken");
 
 
+=======
+>>>>>>> 39c182a088b9eac1e6e4627440242508c352c1b8
 class LoginService {
   constructor({ logger, userModel }) {
     this.userModel = userModel;
